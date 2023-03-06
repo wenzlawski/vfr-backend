@@ -1,0 +1,3 @@
+[submodule "slcs"]
+	path = slcs
+	url = git@github.com:wenzlawski/slcs.git
